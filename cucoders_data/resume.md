@@ -34,5 +34,5 @@ Habilidades aplicadas:
 
 ## 🌎 Idiomas
 
-Spanish: Native
-English: Proficiency
+Español: Nativo
+Inglés: Nivel avanzado
