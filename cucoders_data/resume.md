@@ -12,7 +12,7 @@ Universidad de Ciencias Informáticas, La Habana, Cuba.
 
 ## 💼 Experiencia laboral
 
-## 2022-2025 NTSPRINT LLC, Seattle, Washington, USA (Remoto)
+### 2022-2025 NTSPRINT LLC, Seattle, Washington, USA (Remoto)
 Desarrollador de software
 Desarrollo backend de aplicaciones con Laravel (PHP) y Django (Python), garantizando una integración fluida y API escalables para múltiples proyectos. Diseño de endpoints RESTful para potenciar las funciones principales de NTSprint, facilitando la interacción con el usuario.
 Desarrollo frontend de aplicaciones optimizadas con Angular y React (JavaScript/TypeScript), ofreciendo experiencias intuitivas y adaptativas a los usuarios.
