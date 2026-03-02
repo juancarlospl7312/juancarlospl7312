@@ -19,7 +19,7 @@ Desarrollo frontend de aplicaciones optimizadas con Angular y React (JavaScript/
 Implementación de pruebas automatizadas integrales que garantizan la calidad y la fiabilidad del código en todas las implementaciones.
 Delimitación y estimación de tareas, identificación temprana de riesgos y entrega puntual mediante colaboración ágil.
 Habilidades aplicadas:
-    • Laravel(PHP), Django(Python), Angular(Angular Material, RxJS library), React(JavaScript/TypeScript), Bootstrap, jQuery, PostgreSQL, MySQL, AWS, Stripe API, OpenAI(GPT-4o), Docker.
+    • Laravel(PHP), Django(Python), Angular(Angular Material, RxJS library), React(JavaScript/TypeScript), Vue, jQuery, TailwindCSS, Bootstrap, PostgreSQL, MySQL, AWS, Stripe API, OpenAI(GPT-4o), Docker.
 
 
 ### 2015-2020 - GET, Havana, Cuba
@@ -30,9 +30,9 @@ Análisis y resolución de problemas técnicos en sistemas existentes.
 Implementación y mantenimiento de soluciones de software.
 Desarrollo e implementación de soluciones de software a medida para clientes.
 Habilidades aplicadas:
-    • API Rest, PHP, Laravel, Symfony, CodeIgniter, Bootstrap, JavaScript, Angular, Vue.js, PostgreSQL, MySQL.
+    • API Rest, PHP, Laravel, Symfony, CodeIgniter, Bootstrap, JavaScript, Angular, Vue, PostgreSQL, MySQL.
 
 ## 🌎 Idiomas
 
-Español: Nativo
-###Inglés: Nivel avanzado
+Español: Nativo, 
+Inglés: Nivel avanzado
