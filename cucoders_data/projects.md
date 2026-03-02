@@ -13,9 +13,10 @@ Habilidades aplicadas:
 • PHP, Laravel, JavaScript, Angular, PostgreSQL, Keycloak, Twilio, SendGrid.
 
 ## [Hello There, Traveller!](https://hellotheretraveler.com/)
+![Hello There, Traveller!](https://github.com/juancarlospl7312/juancarlospl7312/blob/main/img/hellotheretraveler.png)
 
-![Nombre del proyecto 3](https://enlace-de-la-imagen-del-proyecto-3.jpg)
-
-Descripción: Pequeña descripción del proyecto 3
+Al diseñar esta solución integral, diseñé un sistema distribuido que combina el desarrollo de API RESTful con la implementación de la interfaz de usuario, con las siguientes integraciones: - Un motor de comunicación multicanal que utiliza la API de correo electrónico de SendGrid y los SMS programables de Twilio para la distribución diaria de informes; - Procesamiento de pagos mediante la integración de la API de Stripe; - Generación de contenido con IA que aprovecha el modelo GPT-4o de OpenAI mediante indicaciones optimizadas para automatizar la creación de informes personalizados. El sistema se implementó en la infraestructura de AWS (EC2).
+Habilidades aplicadas:
+• PHP, Laravel, JavaScript, Bootstrap, PostgreSQL, AWS, Twilio, SendGrid, API de Stripe, OpenAI (GPT-4o), Docker.
 
 
